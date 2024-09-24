@@ -15,16 +15,20 @@ You can be as creative and as fancy as you want with the UI, however functionali
 
 Feel free to use whichever front end framework you prefer (or none!) and any component or 3rd party libraries you wish.
 
-## Front End
-
-An empty folder `front` has been created for you to put your front end application in.
+## Front End - ReactJs
+<img width="1118" alt="1" src="https://github.com/user-attachments/assets/62e4556f-9e3a-405f-9a27-06e8822254e1">
+<img width="503" alt="add" src="https://github.com/user-attachments/assets/62b96d4e-b1fb-4860-9acc-e6e85991c3b6">
+<img width="820" alt="listing" src="https://github.com/user-attachments/assets/c598a877-25be-40be-9d71-8e5aefda82ea">
+<img width="801" alt="review" src="https://github.com/user-attachments/assets/fb132830-9e52-465b-b7b5-b3f37efa9bed">
+<img width="842" alt="edit" src="https://github.com/user-attachments/assets/bbc1c32b-b860-4eb5-a0f6-39c2382920a7">
 
 ```sh
 cd front
-<scaffold and develop your UI here>
+npm i
+npm start
 ```
 
-## Back End Server/API
+## Back End Server/API - NodeJs - SQLite
 
 A backend server has been provided for you in `back`.  It provides an API that is documented in Swagger: [http://localhost:4000/api-docs](http://localhost:4000/api-docs).
 
