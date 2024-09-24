@@ -1,0 +1,21 @@
+.drink-list-paper {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  margin-bottom: 16px;
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.drink-image {
+  width: 50px;
+  height: auto;
+  margin-right: 16px;
+}
+
+.no-drinks {
+  text-align: center;
+  font-size: 1.2em;
+  color: #888888;
+}

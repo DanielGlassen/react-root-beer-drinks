@@ -1,0 +1,15 @@
+.add-review-form {
+  margin-bottom: 16px; /* Adjust as needed */
+  padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.add-review-form-title {
+  margin-bottom: 16px;
+}
+
+.add-review-form-button {
+  margin-top: 16px;
+}

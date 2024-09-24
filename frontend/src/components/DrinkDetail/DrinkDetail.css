@@ -1,0 +1,23 @@
+.add-review-button {
+  margin-top: 16px; 
+}
+
+.reviews-title {
+  margin-top: 24px; 
+}
+
+.reviews-table {
+  width: 100%;
+  margin-top: 16px;
+  border-collapse: collapse;
+}
+
+.table-header {
+  border-bottom: 1px solid #ccc;
+  padding: 8px;
+}
+
+.table-cell {
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+}
